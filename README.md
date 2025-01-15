@@ -1,4 +1,4 @@
-🔭 I’m currently working on some side projects to develop my coding skills.<br>🤝 I’m looking for a job where I can leverage my skills in full-stack or backend development and contribute to impactful projects.<br>🌱 I’m currently learning microservices in Java and working with Jenkins, Kafka, Redis, Kubernetes, Angular, Graphql and AWS.<br>📫 How to reach me: rmonteiro811@gmail.com
+🤝 I’m a DevOps Engineer and I work mostly with pipelines doing automations to faster the process of CI/CD.<br>🔭 I’m currently working on some side projects to develop my coding skills.<br>🌱 I’m currently learning microservices in Java.<br>📫 How to reach me: rmonteiro811@gmail.com
 
 
 ## 🌐 Socials:
