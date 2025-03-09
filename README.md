@@ -1,4 +1,4 @@
-🤝 I’m a DevOps Engineer and I work mostly with pipelines doing automations to faster the process of CI/CD.<br>🔭 I’m currently working on some side projects to develop my coding skills.<br>📫 How to reach me: rmonteiro811@gmail.com
+🤝 I’m a DevOps Engineer and I work mostly with pipelines and cloud doing automations to faster the process of CI/CD.<br>🔭 I’m currently working on some side projects to develop my coding skills.<br>📫 How to reach me: rmonteiro811@gmail.com
 
 
 ## 🌐 Socials:
